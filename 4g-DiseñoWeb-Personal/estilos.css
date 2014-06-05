@@ -8,12 +8,8 @@
 	font-weight: normal;
 	font-style: normal;
 }*/
-<<<<<<< HEAD
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
-}
 
-=======
->>>>>>> c68509572fb40e3a533bd620dc433b1c1a685a1e
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 @font-face {
 	font-family: 'icomoon';
 	src:url('fuentes/icomoon.eot?oj26z2');
